@@ -1,0 +1,16 @@
+body{
+    margin: 20px;
+}
+.my-schedule-row {
+    background-color: rgb(164, 151, 136);  
+    height: 100px;
+    box-shadow: 5px 5px rgb(135, 130, 124); 
+}  
+.main-row{
+    background-color: rgb(95, 78, 57); 
+    height: 50px;
+    width: auto;  
+    margin: 1px; 
+    color: aliceblue;
+    border-radius: 2px;
+}
